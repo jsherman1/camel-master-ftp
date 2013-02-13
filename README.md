@@ -1,7 +1,7 @@
 camel-master-ftp
 ================
 
-Example Camel project which demonstrate the use of the Camel Master Component in Fuse Fabric
+Example Camel project which demonstrate the use of the Camel Master Component in Fuse Fabric with a FTP Endpoint
 
 This project provides and example camel route in blueprint that works should work in JBoss Fuse 6.0 using the Camel Master Component
 
