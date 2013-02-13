@@ -15,7 +15,7 @@ as follows:
     
     fabric:profile-edit --features camel-ftp <profile-name>
 
-    fabric:profile-edit --bunldes mvn:com.example/camel-master-ftp-workaround <profile-name>
+    fabric:profile-edit --bunldes mvn:com.example/camel-master-ftp <profile-name>
     
 The profile can then be provisioned on a container as follows:
 
